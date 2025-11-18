@@ -1,4 +1,4 @@
-# Simple Next.js Test App!
+# Simple Next.js Test App!!
 
 A simple multi-page Next.js application built for automated browser testing.
 

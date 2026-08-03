@@ -1,7 +1,7 @@
 export const dynamic = 'force-dynamic';
 
 async function getContactSettings(): Promise<{ email: string }> {
-  // Regression: the contact-settings service is unavailable in this build.
+  // Regression: the contact-settings service is unavailable in this build (v2).
   throw new Error('ContactSettingsError: settings service unavailable');
 }
 

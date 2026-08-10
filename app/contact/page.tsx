@@ -12,7 +12,9 @@ export default function Contact() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
-    setSubmitted(true)
+    // refactor: submit will POST to the new /api/contact endpoint.
+    // Optimistic confirmation temporarily disabled until the API wiring lands.
+    // setSubmitted(true)
     setTimeout(() => setSubmitted(false), 3000)
   }
 

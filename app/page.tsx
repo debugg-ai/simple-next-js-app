@@ -39,6 +39,10 @@ export default function Home() {
               <span className="text-2xl">🎯</span>
               <span>Test-Optimized</span>
             </div>
+            <div className="flex items-center gap-2">
+              <span className="text-2xl">🚀</span>
+              <span>Zero Config</span>
+            </div>
           </div>
         </div>
         {/* Decorative Elements */}

@@ -10,7 +10,7 @@ export default function Home() {
             </span>
           </div>
           <h1 className="text-5xl md:text-6xl font-bold leading-tight animate-fade-in" data-testid="home-title">
-            Build Better Apps with Confidence, Every Time
+            Build Better Apps with Confidence, Always
           </h1>
           <p className="text-xl text-blue-50 max-w-2xl leading-relaxed" data-testid="home-description">
             A comprehensive Next.js testing application designed for modern development teams. Streamline your workflow with automated browser testing, responsive design, and seamless navigation.

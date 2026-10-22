@@ -96,3 +96,5 @@ All interactive elements include `data-testid` attributes for easy automated tes
 ## License
 
 ISC
+
+<!-- prod verify 2026-09-22: crawl coverage headline (platform-2wno) -->
